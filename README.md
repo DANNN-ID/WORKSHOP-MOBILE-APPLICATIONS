@@ -1,8 +1,8 @@
 # WORKSHOP-MOBILE-APPLICATIONS
 
-[E41201452_AHMAD WILDAN_TIF B BONDOWOSO] - PENGUMPULAN TUGAS 4 (SELECTION WIDGET)
+<h2>[E41201452_AHMAD WILDAN_TIF B BONDOWOSO] - PENGUMPULAN TUGAS 4 (SELECTION WIDGET)</h2>
 
-DESKRIPSI SINGKAT APLIKASI,
+<b>DESKRIPSI SINGKAT APLIKASI</b>,
 
 Modifikasi Selection Widget yang saya buat di sini menggunakan studi kasus sistem informasi sejarah negara. Di dalam aplikasi ini terdapat berbagai informasi singkat tentang sejarah yang ditampilkan menggunakan List View, kemudian ada fitur pilihan kategori sejarah berdasarkan opsi yang ditampung dalam Spinner, dan juga terdapat fitur searching sejarah sesuai dengan nama negara yang ditampung dalam Auto Complete Text View. Berikut merupakan ringkasan tampilan dari modifikasi Selection Widget yang telah saya buat.
 
