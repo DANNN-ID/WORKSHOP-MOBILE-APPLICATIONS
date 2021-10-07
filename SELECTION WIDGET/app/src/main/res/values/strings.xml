@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TugasWMA</string>
+<!-- membuat daftar negara-->
+<!--    <sting-array> yang digunakan untuk membungkus item-item yang -->
+<!--    ingin diampilkan pada Spinner, lalu tag <item> digunakan untuk membuat sebuah item.-->
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Palestina</item>
+        <item>Afganistan</item>
+        <item>AMerika</item>
+        <item>Singapura</item>
+        <item>Jerman</item>
+        <item>Malaysia</item>
+    </string-array>
+</resources>
