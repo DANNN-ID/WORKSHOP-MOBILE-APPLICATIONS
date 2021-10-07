@@ -8,12 +8,12 @@ Modifikasi Selection Widget yang saya buat di sini menggunakan studi kasus siste
 
 [1] LIST VIEW
 
-![4x6](https://user-images.githubusercontent.com/75109884/136315449-8139ad0a-ba57-4e80-96bf-8ba1099ea0b9.jpg)
+![WhatsApp Image 2021-10-07 at 11 08 03](https://user-images.githubusercontent.com/75109884/136318797-a6f296ca-82f3-4f5a-9d40-cbad1705b650.jpeg)
 
 [2] SPINNER
 
-![4x6](https://user-images.githubusercontent.com/75109884/136315449-8139ad0a-ba57-4e80-96bf-8ba1099ea0b9.jpg)
+![WhatsApp Image 2021-10-07 at 11 08 04](https://user-images.githubusercontent.com/75109884/136318828-433050b7-14f7-482c-a774-30dad89a5e16.jpeg)
 
 [3] AUTOCOMPLETE TEXT VIEW
 
-![4x6](https://user-images.githubusercontent.com/75109884/136315449-8139ad0a-ba57-4e80-96bf-8ba1099ea0b9.jpg)
+![WhatsApp Image 2021-10-07 at 11 08 04 (1)](https://user-images.githubusercontent.com/75109884/136318846-f284d900-92bb-4e2b-8d36-6604bf455c2a.jpeg)
