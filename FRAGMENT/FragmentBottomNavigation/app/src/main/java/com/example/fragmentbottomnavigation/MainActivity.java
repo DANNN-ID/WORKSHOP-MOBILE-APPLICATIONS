@@ -18,11 +18,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        // Memanggil bottom navigation
         bottomNavigation = findViewById(R.id.bottom_navigation);
-
+        // Membuat tampilan agar default pada chat fragment
         getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new ChatsFragment()).commit();
-
+        // Membuat listener agar icon dapat diklik dan langsung menuju ke fragment yang ditentukan
         bottomNavigation.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
                         selectedFragment = new CallsFragment();
                         break;
                 }
-
+                //  Memanggil fungsi untuk mengubah fragment
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
 
                 return true;
