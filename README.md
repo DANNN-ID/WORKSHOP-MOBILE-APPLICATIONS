@@ -24,6 +24,8 @@
 	<img src="https://user-images.githubusercontent.com/75109884/136318846-f284d900-92bb-4e2b-8d36-6604bf455c2a.jpeg" width="300px">
 </div>
 
+<br>
+
 <div id="Fragment">
 	<h2>FRAGMENT</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
@@ -35,6 +37,8 @@
 	<h3>[3] FRAGMENT CALLS</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/137252395-cc7cb836-28e7-472f-bd42-46fc353b695a.png" width="300px">
 </div>
+
+<br>
 
 <div id="Intent">
 	<h2>INTENT (IMPLICIT AND EXPLICIT)</h2>
