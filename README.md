@@ -38,7 +38,7 @@
 	<img src="https://user-images.githubusercontent.com/75109884/137252395-cc7cb836-28e7-472f-bd42-46fc353b695a.png" width="300px">
 </div>
 
-<br>
+<hr>
 
 <div id="Intent">
 	<h2>INTENT (IMPLICIT AND EXPLICIT)</h2>
