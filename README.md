@@ -43,7 +43,9 @@
 <div id="Intent">
 	<h2>INTENT (IMPLICIT AND EXPLICIT)</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
-	<p></p>
-	<h3></h3>
-	<img src="" width="">
+	<p>Secara singkat, intent merupakan sebuah kelas dalam programming android yang berfungsi untuk perpindahan halaman dan juga mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Di bawah ini saya membuat fungsi intent dengan tampilan android sederhana. Cara kerjanya dimulai dari menginputkan sebuah link eksternal yang ingin dituju. Setelah itu klik tombol visit untuk mengunjungi/membuka tampilan halaman dari link eksternal tersebut. Berikut merupakan ringkasan tampilan dari modifikasi intent yang telah saya buat.</p>
+	<h3>[1] Input Link Eksternal</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137253646-f7ca991e-6335-4bb0-a512-cde61a274ddd.png" width="300px">
+	<h3>[2] Ouput Ketika Menekan Tombol Visit</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137253639-6f46eaee-a2d2-4468-97e1-f69178cacc95.png" width="300px">
 </div>
