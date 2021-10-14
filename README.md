@@ -20,6 +20,7 @@
 	
 </div>
 
+<br><br><br>
 <div id="SelectionWidget">
 	<h2>SELECTION WIDGET</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
