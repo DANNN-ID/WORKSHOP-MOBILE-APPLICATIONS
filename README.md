@@ -1,6 +1,7 @@
 # WORKSHOP-MOBILE-APPLICATIONS
 
 <h1 align="center">E41201452_AHMAD WILDAN_TIF B BONDOWOSO</h1>
+<p>Di bawah ini terdapat seluruh dokumentasi tugas yang ada di dalam repositori workshop mobile applications. Bagi bapak/ibu dosen yang ingin melihat dokumentasi tugas saya. Bisa dilihat melalui link di bawah ini. Silahkan diklik salah satu dokumentasi tugas sesuai dengan judul tugas yang diberikan pada pertemuan mingguan. Terimakasih atas perhatiannya...</p>
 <h2>PENGUMPULAN TUGAS 6 - SELECTION WIDGET</h2>
 <h2><a href="#pertemuan5">PENGUMPULAN TUGAS 5 - SELECTION WIDGET</a></h2>
 <h2>PENGUMPULAN TUGAS 4 - SELECTION WIDGET</h2>
