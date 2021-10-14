@@ -24,7 +24,6 @@
 	<img src="https://user-images.githubusercontent.com/75109884/136318846-f284d900-92bb-4e2b-8d36-6604bf455c2a.jpeg" width="300px">
 </div>
 
-<br>
 <hr>
 
 <div id="Fragment">
