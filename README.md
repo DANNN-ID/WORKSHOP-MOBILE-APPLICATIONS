@@ -20,8 +20,7 @@
 	
 </div>
 
-<br><br><br>
-<div id="SelectionWidget">
+<div id="SelectionWidget" style="padding-top: 10px;">
 	<h2>SELECTION WIDGET</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
 	<p>Modifikasi Selection Widget yang saya buat di sini menggunakan studi kasus sistem informasi sejarah negara. Di dalam aplikasi ini terdapat berbagai informasi singkat tentang sejarah yang ditampilkan menggunakan List View, kemudian ada fitur pilihan kategori sejarah berdasarkan opsi yang ditampung dalam Spinner, dan juga terdapat fitur searching sejarah sesuai dengan nama negara yang ditampung dalam Auto Complete Text View. Berikut merupakan ringkasan tampilan dari modifikasi Selection Widget yang telah saya buat.</p>
