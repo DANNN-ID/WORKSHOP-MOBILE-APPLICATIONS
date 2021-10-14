@@ -1,16 +1,16 @@
 <h1 align="center">E41201452_AHMAD WILDAN_TIF B BONDOWOSO</h1>
 
-<p style="font-size: 20px;">Di bawah ini terdapat seluruh dokumentasi tugas yang ada di dalam repositori workshop mobile applications. Bagi bapak/ibu dosen yang ingin melihat dokumentasi tugas saya. Bisa dilihat melalui link di bawah ini. Silahkan diklik salah satu dokumentasi tugas sesuai dengan judul tugas yang diberikan pada pertemuan mingguan. Terimakasih atas perhatiannya...</p>
+<p>Di bawah ini terdapat seluruh dokumentasi tugas yang ada di dalam repositori workshop mobile applications. Bagi bapak/ibu dosen yang ingin melihat dokumentasi tugas saya. Bisa dilihat melalui link di bawah ini. Silahkan diklik salah satu dokumentasi tugas sesuai dengan judul tugas yang diberikan pada pertemuan mingguan. Terimakasih atas perhatiannya...</p>
 
-<h2>
+<h3>
 	<a href="#SelectionWidget">PENGUMPULAN TUGAS PERTEMUAN MINGGU 4 - SELECTION WIDGET</a>
-</h2>
-<h2>
+</h3>
+<h3>
 	<a href="#Fragment">PENGUMPULAN TUGAS PERTEMUAN MINGGU 5 - FRAGMENT</a>
-</h2>
-<h2>
+</h3>
+<h3>
 	<a href="#Intent">PENGUMPULAN TUGAS PERTEMUAN MINGGU 6 - INTENT (MPLICIT AND EXPLICIT)</a>
-</h2>
+</h3>
 
 <div id="Fragment">
 	
