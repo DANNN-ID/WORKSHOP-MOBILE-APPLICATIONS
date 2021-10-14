@@ -3,13 +3,13 @@
 <p>Di bawah ini terdapat seluruh dokumentasi tugas yang ada di dalam repositori workshop mobile applications. Bagi bapak/ibu dosen yang ingin melihat dokumentasi tugas saya. Bisa dilihat melalui link di bawah ini. Silahkan diklik salah satu dokumentasi tugas sesuai dengan judul tugas yang diberikan pada pertemuan mingguan. Terimakasih atas perhatiannya...</p>
 
 <h3>
-	<a href="#SelectionWidget">O> PENGUMPULAN TUGAS PERTEMUAN MINGGU 4 - SELECTION WIDGET</a>
+	<a href="#SelectionWidget">✔ PENGUMPULAN TUGAS PERTEMUAN MINGGU 4 - SELECTION WIDGET</a>
 </h3>
 <h3>
-	<a href="#Fragment">O> PENGUMPULAN TUGAS PERTEMUAN MINGGU 5 - FRAGMENT</a>
+	<a href="#Fragment">✔ PENGUMPULAN TUGAS PERTEMUAN MINGGU 5 - FRAGMENT</a>
 </h3>
 <h3>
-	<a href="#Intent">O> PENGUMPULAN TUGAS PERTEMUAN MINGGU 6 - INTENT (MPLICIT AND EXPLICIT)</a>
+	<a href="#Intent">✔ PENGUMPULAN TUGAS PERTEMUAN MINGGU 6 - INTENT (MPLICIT AND EXPLICIT)</a>
 </h3>
 
 <div id="Fragment">
