@@ -11,6 +11,12 @@
 <h3>
 	<a href="#Intent">☆ PENGUMPULAN TUGAS PERTEMUAN MINGGU 6 - INTENT (IMPLICIT & EXPLICIT)</a>
 </h3>
+<h3>
+	<a href="#SQL">☆ PENGUMPULAN TUGAS PERTEMUAN MINGGU 7 - IMPLEMENTASI SQL LITE</a>
+</h3>
+<h3>
+	<a href="#File">☆ PENGUMPULAN TUGAS PERTEMUAN MINGGU 7 - MANAGEMENT FILE</a>
+</h3>
 
 <div id="SelectionWidget">
 	<h2>SELECTION WIDGET</h2>
@@ -42,6 +48,38 @@
 
 <div id="Intent">
 	<h2>INTENT (IMPLICIT)</h2>
+	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
+	<p>Secara singkat, intent merupakan sebuah kelas dalam programming android yang berfungsi untuk perpindahan halaman dan juga mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Di bawah ini saya membuat fungsi intent implicit dan intent explicit dengan tampilan android sederhana. Cara kerja pada intent implicit dimulai dari menginputkan sebuah link eksternal yang ingin dituju. Setelah itu klik tombol visit untuk mengunjungi/membuka tampilan halaman dari link eksternal tersebut. Untuk cara kerja intent explicit dimulai dari input nama. Setelah itu klik tombol send untuk membuka/berpindah ke halaman baru dengan menampilkan nama yang telah diinputkan sebelumnya. Berikut merupakan ringkasan tampilan dari modifikasi intent implicit dan explicit yang telah saya buat.</p>
+	<h3>[1] Intent Implicit (Input Link Eksternal)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426288-3c92ae09-b877-4ead-8203-c37769f7dccb.png" width="300px">
+	<h3>[2] Intent Implicit (Ouput Ketika Menekan Tombol Visit)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426302-25dc2281-429e-4aba-b5d2-cdae115e76bd.png" width="300px">
+	<h3>[3] Intent Explicit (Input Nama)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426275-ee38a085-d303-42cf-b78f-94790c337d41.png" width="300px">
+	<h3>[4] Intent Explicit (Ouput Ketika Menekan Tombol Send)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426283-0e17ac73-c8de-4d1c-a67b-da654b9825e2.png" width="300px">
+</div>
+
+<hr>
+
+<div id="SQL">
+	<h2>IMPLEMENTASI SQL LITE</h2>
+	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
+	<p>Secara singkat, intent merupakan sebuah kelas dalam programming android yang berfungsi untuk perpindahan halaman dan juga mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Di bawah ini saya membuat fungsi intent implicit dan intent explicit dengan tampilan android sederhana. Cara kerja pada intent implicit dimulai dari menginputkan sebuah link eksternal yang ingin dituju. Setelah itu klik tombol visit untuk mengunjungi/membuka tampilan halaman dari link eksternal tersebut. Untuk cara kerja intent explicit dimulai dari input nama. Setelah itu klik tombol send untuk membuka/berpindah ke halaman baru dengan menampilkan nama yang telah diinputkan sebelumnya. Berikut merupakan ringkasan tampilan dari modifikasi intent implicit dan explicit yang telah saya buat.</p>
+	<h3>[1] Intent Implicit (Input Link Eksternal)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426288-3c92ae09-b877-4ead-8203-c37769f7dccb.png" width="300px">
+	<h3>[2] Intent Implicit (Ouput Ketika Menekan Tombol Visit)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426302-25dc2281-429e-4aba-b5d2-cdae115e76bd.png" width="300px">
+	<h3>[3] Intent Explicit (Input Nama)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426275-ee38a085-d303-42cf-b78f-94790c337d41.png" width="300px">
+	<h3>[4] Intent Explicit (Ouput Ketika Menekan Tombol Send)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/137426283-0e17ac73-c8de-4d1c-a67b-da654b9825e2.png" width="300px">
+</div>
+
+<hr>
+
+<div id="File">
+	<h2>MANAGEMENT FILE</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
 	<p>Secara singkat, intent merupakan sebuah kelas dalam programming android yang berfungsi untuk perpindahan halaman dan juga mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Di bawah ini saya membuat fungsi intent implicit dan intent explicit dengan tampilan android sederhana. Cara kerja pada intent implicit dimulai dari menginputkan sebuah link eksternal yang ingin dituju. Setelah itu klik tombol visit untuk mengunjungi/membuka tampilan halaman dari link eksternal tersebut. Untuk cara kerja intent explicit dimulai dari input nama. Setelah itu klik tombol send untuk membuka/berpindah ke halaman baru dengan menampilkan nama yang telah diinputkan sebelumnya. Berikut merupakan ringkasan tampilan dari modifikasi intent implicit dan explicit yang telah saya buat.</p>
 	<h3>[1] Intent Implicit (Input Link Eksternal)</h3>
