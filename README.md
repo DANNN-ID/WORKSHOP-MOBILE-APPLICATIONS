@@ -109,7 +109,7 @@
 	<img src="https://user-images.githubusercontent.com/75109884/140685226-edd6e5e8-bbc9-45c9-826e-a95a56989cb0.jpeg" width="300px">
 	<h3>[7] Jika input password salah, maka muncul alert notification</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685229-ddcccc79-43fe-4833-ba5c-61c73e1f0b11.jpeg" width="300px">
-	<h3>[8] Melakukan login dengan menggunakan data yang telah di-register pada tahap sebelumnya</h3>
+	<h3>[8] Login dengan menggunakan data yang telah diregister pada tahap sebelumnya</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685232-d8e265c5-30be-461d-9a0d-9193bf6f10b1.jpeg" width="300px">
 	<h3>[9] Tampilan layar ketika berhasil melakukan login</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685233-73d0bd7a-7d8a-487e-9ca6-9dedf72c2dc0.jpeg" width="300px">
