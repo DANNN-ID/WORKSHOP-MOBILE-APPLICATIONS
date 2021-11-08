@@ -71,7 +71,7 @@
 	<p>Secara singkat, SQLite dapat membuat basis data yang bersifat temporer di memori primer sehingga cocok digunakan untuk aplikasi-aplikasi yang tidak membutuhkan basis data tersimpan dalam media penyimpanan yang bersifat permanen. Di bawah ini saya membuat program pengelolaan data sederhana dengan menerapkan SQL Lite. Dalam program ini user bisa mengelola data-data, mulai dari menambah, melihat, menghapus, dan mengeditnya. Berikut merupakan ringkasan tampilan dari implementasi SQL Lite yang telah saya buat.</p>
 	<h3>[1] Dokumentasi Output 1</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140683507-3ed14dbb-db69-4f88-a06a-c673a1ca4001.jpeg" width="300px">
-	<h3>[2] Dokumentasi Output 2Intent Implicit (Ouput Ketika Menekan Tombol Visit)</h3>
+	<h3>[2] Dokumentasi Output 2</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140683514-22c12d16-cf0e-49ec-8cf0-1b684eca01f6.jpeg" width="300px">
 	<h3>[3] Dokumentasi Output 3</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140683515-4143e218-16f3-4d58-9512-00b0612ba9d4.jpeg" width="300px">
