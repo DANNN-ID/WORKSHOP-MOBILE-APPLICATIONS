@@ -99,18 +99,18 @@
 	<img src="https://user-images.githubusercontent.com/75109884/140685212-0f8a26f3-6ca0-4865-9e6a-8cefdaec1b37.jpeg" width="300px">
 	<h3>[2] Form Register</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685216-15299fcf-c8df-46ff-8fdd-982ffdec85a2.jpeg" width="300px">
-	<h3>[3] Jika Data Kosong Form Register Kosong, Maka Muncul Alert Notification</h3>
+	<h3>[3] Jika data form register kosong, maka muncul alert notification</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685219-20441d75-9e9c-4833-ac76-bcd8183d88bd.jpeg" width="300px">
-	<h3>[4] Melengkapi Data di Form Register</h3>
+	<h3>[4] Melanjutkan pengisian form register</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685223-cb52e402-8716-4066-9b4a-56f7cd0b0e74.jpeg" width="300px">
-	<h3>[5] Jika Data Login Kosong, Maka Muncul Alert Notification</h3>
+	<h3>[5] Jika data login kosong, maka muncul alert notification</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685225-2c5ff8e3-b810-4a53-84a0-18e3a2a073a7.jpeg" width="300px">
-	<h3>[6] Jika Username Salah, Maka Muncul Alert Notification</h3>
+	<h3>[6] Jika input username salah, maka muncul alert notification</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685226-edd6e5e8-bbc9-45c9-826e-a95a56989cb0.jpeg" width="300px">
-	<h3>[7] Jika Password Salah, Maka Muncul Alert Notification</h3>
+	<h3>[7] Jika input password salah, maka muncul alert notification</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685229-ddcccc79-43fe-4833-ba5c-61c73e1f0b11.jpeg" width="300px">
-	<h3>[8] Melengkapi Data Login Sesuai dengan Data Register Sebelumnya</h3>
+	<h3>[8] Melakukan login dengan menggunakan data yang telah di-register pada tahap sebelumnya</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685232-d8e265c5-30be-461d-9a0d-9193bf6f10b1.jpeg" width="300px">
-	<h3>[9] Tampilan Ketika Berhasil Melakukan Login</h3>
+	<h3>[9] Tampilan layar ketika berhasil melakukan login</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685233-73d0bd7a-7d8a-487e-9ca6-9dedf72c2dc0.jpeg" width="300px">
 </div>
