@@ -17,6 +17,9 @@
 <h3>
 	<a href="#File">☆ DOKUMENTASI TUGAS PERTEMUAN MINGGU 7 - MANAGEMENT FILE</a>
 </h3>
+<h3>
+	<a href="#Shared">☆ DOKUMENTASI TUGAS PERTEMUAN MINGGU 9 - SHARED PREFERENCES</a>
+</h3>
 
 <div id="SelectionWidget">
 	<h2>SELECTION WIDGET</h2>
@@ -65,29 +68,49 @@
 <div id="SQL">
 	<h2>IMPLEMENTASI SQL LITE</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
-	<p>Secara singkat, intent merupakan sebuah kelas dalam programming android yang berfungsi untuk perpindahan halaman dan juga mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Di bawah ini saya membuat fungsi intent implicit dan intent explicit dengan tampilan android sederhana. Cara kerja pada intent implicit dimulai dari menginputkan sebuah link eksternal yang ingin dituju. Setelah itu klik tombol visit untuk mengunjungi/membuka tampilan halaman dari link eksternal tersebut. Untuk cara kerja intent explicit dimulai dari input nama. Setelah itu klik tombol send untuk membuka/berpindah ke halaman baru dengan menampilkan nama yang telah diinputkan sebelumnya. Berikut merupakan ringkasan tampilan dari modifikasi intent implicit dan explicit yang telah saya buat.</p>
-	<h3>[1] Intent Implicit (Input Link Eksternal)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426288-3c92ae09-b877-4ead-8203-c37769f7dccb.png" width="300px">
-	<h3>[2] Intent Implicit (Ouput Ketika Menekan Tombol Visit)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426302-25dc2281-429e-4aba-b5d2-cdae115e76bd.png" width="300px">
-	<h3>[3] Intent Explicit (Input Nama)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426275-ee38a085-d303-42cf-b78f-94790c337d41.png" width="300px">
-	<h3>[4] Intent Explicit (Ouput Ketika Menekan Tombol Send)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426283-0e17ac73-c8de-4d1c-a67b-da654b9825e2.png" width="300px">
+	<p>Secara singkat, SQLite dapat membuat basis data yang bersifat temporer di memori primer sehingga cocok digunakan untuk aplikasi-aplikasi yang tidak membutuhkan basis data tersimpan dalam media penyimpanan yang bersifat permanen. Di bawah ini saya membuat program pengelolaan data sederhana dengan menerapkan SQL Lite. Dalam program ini user bisa mengelola data-data, mulai dari menambah, melihat, menghapus, dan mengeditnya. Berikut merupakan ringkasan tampilan dari implementasi SQL Lite yang telah saya buat.</p>
+	<h3>[1] Dokumentasi Output 1</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140683507-3ed14dbb-db69-4f88-a06a-c673a1ca4001.jpeg" width="300px">
+	<h3>[2] Dokumentasi Output 2Intent Implicit (Ouput Ketika Menekan Tombol Visit)</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140683514-22c12d16-cf0e-49ec-8cf0-1b684eca01f6.jpeg" width="300px">
+	<h3>[3] Dokumentasi Output 3</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140683515-4143e218-16f3-4d58-9512-00b0612ba9d4.jpeg" width="300px">
+	<h3>[4] Dokumentasi Output 4</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140683517-740e47bf-094a-4919-95df-1dc66cd666e4.jpeg" width="300px">
+	<h3>[5] Dokumentasi Output 5</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140683519-d629f8e6-8cc4-401f-99e2-7183369e858d.jpeg" width="300px">
 </div>
 
 <hr>
 
 <div id="File">
 	<h2>MANAGEMENT FILE</h2>
+	<h3>[1] Dokumentasi Output</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140683502-03a0cc6c-59ef-4523-984c-071065b09e2a.jpeg" width="300px">
+</div>
+
+<hr>
+
+<div id="Shared">
+	<h2>SHARED PREFERENCES</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
-	<p>Secara singkat, intent merupakan sebuah kelas dalam programming android yang berfungsi untuk perpindahan halaman dan juga mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Di bawah ini saya membuat fungsi intent implicit dan intent explicit dengan tampilan android sederhana. Cara kerja pada intent implicit dimulai dari menginputkan sebuah link eksternal yang ingin dituju. Setelah itu klik tombol visit untuk mengunjungi/membuka tampilan halaman dari link eksternal tersebut. Untuk cara kerja intent explicit dimulai dari input nama. Setelah itu klik tombol send untuk membuka/berpindah ke halaman baru dengan menampilkan nama yang telah diinputkan sebelumnya. Berikut merupakan ringkasan tampilan dari modifikasi intent implicit dan explicit yang telah saya buat.</p>
-	<h3>[1] Intent Implicit (Input Link Eksternal)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426288-3c92ae09-b877-4ead-8203-c37769f7dccb.png" width="300px">
-	<h3>[2] Intent Implicit (Ouput Ketika Menekan Tombol Visit)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426302-25dc2281-429e-4aba-b5d2-cdae115e76bd.png" width="300px">
-	<h3>[3] Intent Explicit (Input Nama)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426275-ee38a085-d303-42cf-b78f-94790c337d41.png" width="300px">
-	<h3>[4] Intent Explicit (Ouput Ketika Menekan Tombol Send)</h3>
-	<img src="https://user-images.githubusercontent.com/75109884/137426283-0e17ac73-c8de-4d1c-a67b-da654b9825e2.png" width="300px">
+	<p>Secara singkat, SharedPreferences merupakan karakter penyimpanan key-value storage, Sehingga hanya bisa menyimpan data bertipe primitif (float, int, long, string, boolean). Data dalam SharedPreferences akan disimpan dalam sebuah file yang mengandung key-value secara berpasangan. Setiap file ini dikelola oleh Android framework yang aksesnya dapat diatur secara private atau dibagikan. Selain digunakan untuk penyimpanan data sederhana, pemanfaatan SharedPreferences digunakan juga untuk menyimpan pengaturan aplikasi. Dengan ini pengguna dapat mengatur aplikasi sesuai dengan keinginan. Di bawah ini saya membuat program login dan register sederhana dengan menerapkan fungsi SharedPreferences. Cara kerja pada intent implicit dimulai dari login. Jika tidak memiliki akun, maka register terlebih dahulu. Untuk lebih lengkapnya, berikut saya berikan ringkasan tampilan dari login dan register dengan menerapkan fungsi SharedPreferences yang telah saya buat.</p>
+	<h3>[1] Form Login</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685212-0f8a26f3-6ca0-4865-9e6a-8cefdaec1b37.jpeg" width="300px">
+	<h3>[2] Form Register</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685216-15299fcf-c8df-46ff-8fdd-982ffdec85a2.jpeg" width="300px">
+	<h3>[3] Jika Data Kosong Form Register Kosong, Maka Muncul Alert Notification</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685219-20441d75-9e9c-4833-ac76-bcd8183d88bd.jpeg" width="300px">
+	<h3>[4] Melengkapi Data di Form Register</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685223-cb52e402-8716-4066-9b4a-56f7cd0b0e74.jpeg" width="300px">
+	<h3>[5] Jika Data Login Kosong, Maka Muncul Alert Notification</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685225-2c5ff8e3-b810-4a53-84a0-18e3a2a073a7.jpeg" width="300px">
+	<h3>[6] Jika Username Salah, Maka Muncul Alert Notification</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685226-edd6e5e8-bbc9-45c9-826e-a95a56989cb0.jpeg" width="300px">
+	<h3>[7] Jika Password Salah, Maka Muncul Alert Notification</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685229-ddcccc79-43fe-4833-ba5c-61c73e1f0b11.jpeg" width="300px">
+	<h3>[8] Melengkapi Data Login Sesuai dengan Data Register Sebelumnya</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685232-d8e265c5-30be-461d-9a0d-9193bf6f10b1.jpeg" width="300px">
+	<h3>[9] Tampilan Ketika Berhasil Melakukan Login</h3>
+	<img src="https://user-images.githubusercontent.com/75109884/140685233-73d0bd7a-7d8a-487e-9ca6-9dedf72c2dc0.jpeg" width="300px">
 </div>
