@@ -15,10 +15,13 @@
 	<a href="#SQL">☆ DOKUMENTASI TUGAS PERTEMUAN MINGGU 7 - IMPLEMENTASI SQL LITE</a>
 </h3>
 <h3>
-	<a href="#File">☆ DOKUMENTASI TUGAS PERTEMUAN MINGGU 7 - MANAGEMENT FILE</a>
+	<a href="#File">☆ DOKUMENTASI TUGAS PERTEMUAN MINGGU 8 - MANAGEMENT FILE</a>
 </h3>
 <h3>
 	<a href="#Shared">☆ DOKUMENTASI TUGAS PERTEMUAN MINGGU 9 - SHARED PREFERENCES</a>
+</h3>
+<h3>
+	<a href="#Retrofit">☆ DOKUMENTASI TUGAS PERTEMUAN MINGGU 11 - RETROFIT</a>
 </h3>
 
 <div id="SelectionWidget">
@@ -113,4 +116,11 @@
 	<img src="https://user-images.githubusercontent.com/75109884/140685232-d8e265c5-30be-461d-9a0d-9193bf6f10b1.jpeg" width="300px">
 	<h3>[9] Tampilan layar ketika berhasil melakukan login</h3>
 	<img src="https://user-images.githubusercontent.com/75109884/140685233-73d0bd7a-7d8a-487e-9ca6-9dedf72c2dc0.jpeg" width="300px">
+</div>
+
+<div id="Retrofit">
+	<h2>RETROFIT</h2>
+	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
+	<p>Secara singkat, retrofit adalah sebuah library yang digunakan untuk mempermudah proses pertukaran data antara aplikasi android dengan server melalui REST API. Penulis menggunakan retrofit karena library ini memiliki banyak sekali keungulan menarik, yaitu mudahnya digabung dengan library lain dan bisa di kostumisasi sesuai kebutuhan, sehingga bisa retrofit sangat membantu untuk mempercepat pembuatan project. Di bawah ini saya membuat program CRUD sederhana dengan menerapkan rest API client menggunakan retrofit pada Android Studio. Berikut saya berikan ringkasan tampilan dari program CRUD sederhana dengan menerapkan rest API client menggunakan retrofit yang telah saya buat.</p>
+	<h3>Dokumentasi</h3>
 </div>
