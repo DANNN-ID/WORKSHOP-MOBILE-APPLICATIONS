@@ -118,6 +118,8 @@
 	<img src="https://user-images.githubusercontent.com/75109884/140685233-73d0bd7a-7d8a-487e-9ca6-9dedf72c2dc0.jpeg" width="300px">
 </div>
 
+<hr>
+
 <div id="Retrofit">
 	<h2>RETROFIT</h2>
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
